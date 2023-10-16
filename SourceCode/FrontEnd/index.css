@@ -1,0 +1,37 @@
+.header {
+    background-color: rgb(163, 206, 255);
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.navbar-brand {
+    padding-left: 10px;
+    font-family: cursive;
+}
+
+.nav-item1 {
+    display: flex;
+    margin-left: 50px;
+}
+
+.nav-item2 {
+    display: flex;
+    margin-left: 20px;
+}
+
+.nav-item3 {
+    display: flex;
+    margin-left: 20px;
+}
+
+.nav-item4 {
+    display: flex;
+    margin-left: 20px;
+}
+
+.nav-item5 {
+    margin-left: 20px;
+}
