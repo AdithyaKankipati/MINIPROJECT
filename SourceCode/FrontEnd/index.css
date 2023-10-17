@@ -1,5 +1,5 @@
 .header {
-    background-color: rgb(163, 206, 255);
+    background-color: rgb(110, 167, 231);
 }
 
 .navbar-nav {
@@ -34,4 +34,14 @@
 
 .nav-item5 {
     margin-left: 20px;
+}
+.content {
+    padding-left: 13px;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: rgb(150, 17, 17);
+}
+.content {
+    padding-left: 15px;
 }
